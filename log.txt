@@ -1,0 +1,4 @@
+
+Fri Jun 19 21:48:32 CEST 2020->konrad joined main
+Fri Jun 19 21:48:34 CEST 2020->konrad@main: hi
+Fri Jun 19 21:48:37 CEST 2020->konrad left main
