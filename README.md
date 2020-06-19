@@ -6,7 +6,6 @@
   ```shell
   $ java -jar ./chat-server.jar
   ```
-- start the java-program on your computer or any other machine
 - start <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html" target="_blank">PuTTY</a>
 - configure it:
   - Host Name: localhost or your computers IP adress
